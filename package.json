@@ -1,0 +1,12 @@
+{
+  "name": "autohandel",
+  "version": "1.0.0",
+  "description": "Ein modernes Fahrzeughandels-Portal mit Admin-Dashboard und Kundenbereich.",
+  "main": "main.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
